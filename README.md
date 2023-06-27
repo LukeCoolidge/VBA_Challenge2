@@ -20,6 +20,6 @@ Make sure to use conditional formatting that will highlight positive change in g
 My notes
 
 
-Could not figure out the codeing for the greates increase, decrease and volume that was asked for. 
+Could not figure out the codeing for the greates increase, decrease and volume that was asked for. Tutoring Had me start using chat Gpt which helped with some things
 
 This was really hard
